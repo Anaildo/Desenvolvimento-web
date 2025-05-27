@@ -27,25 +27,6 @@ Aprender a criar interfaces interativas e atraentes.
 
 Desenvolver soluções práticas aplicando os conceitos de frontend.
 
-🚀 Como Usar
-Clone este repositório:
-
-bash
-Copiar
-Editar
-git clone https://github.com/seu-usuario/nome-do-repositorio.git  
-Navegue até a pasta de uma atividade específica:
-
-bash
-Copiar
-Editar
-cd nome-da-pasta  
-Abra o arquivo HTML no navegador para visualizar o projeto:
-
-bash
-Copiar
-Editar
-start index.html  
 📝 Licença
 Este repositório é apenas para fins acadêmicos. Sinta-se à vontade para explorar, aprender e contribuir!
 
